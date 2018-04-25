@@ -11,7 +11,7 @@ The example code illustrates the use of cluster forest concept. The [uci ionosph
 
 ![CF Result](cfResult_Ionosphere.png)
 
-The resultant feature subset elucidates lower intracluster distance of samples.
+The resultant feature subset elucidates lower sum of intracluster distances of samples compared to the full set of features.
 
 
 ## Dependencies
