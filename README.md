@@ -1,4 +1,4 @@
-##cluster-ensemble
+## Cluster-ensemble
 
 A subset *f* of the given feature space *F* is selected by cluster ensembling aporoach.
 The growth of subset is defined by quality factor *kf* as the ratio of within cluster and between cluster sum of squared distance.
@@ -14,9 +14,9 @@ The example code illustrates the use of cluster forest concept. The uci ionosphe
 The resultant feature subset elucidates lower intracluster distance of samples.
 
 
-##dependencies
+## Dependencies
 * Matlab/Octave
 
 
-##Reference
+## Reference
 [1]. Yan, Donghui, Aiyou Chen, and Michael I. Jordan. "Cluster forests." Computational Statistics & Data Analysis 66 (2013): 178-192.
