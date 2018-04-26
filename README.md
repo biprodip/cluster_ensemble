@@ -17,6 +17,5 @@ The resultant feature subset elucidates lower sum of intracluster distances of s
 ## Dependencies
 * Matlab/Octave
 
-
 ## Reference
 [1]. Yan, Donghui, Aiyou Chen, and Michael I. Jordan. "Cluster forests." Computational Statistics & Data Analysis 66 (2013): 178-192.
